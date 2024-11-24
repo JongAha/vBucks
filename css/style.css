@@ -505,7 +505,8 @@ a:hover, a:visited, a:focus, a:active, button:hover, button:visited, button:acti
 	background: #be5a3e;
 }
 .mfp-bg {
-	background: url('../img/fortnite-crew-color-1920x1008-52d73077caea.png');
+	/* background: url('../img/fortnite-crew-color-1920x1008-52d73077caea.png'); */
+    background-color: #d29bf1;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -518,7 +519,7 @@ a:hover, a:visited, a:focus, a:active, button:hover, button:visited, button:acti
     left: 0px;
     width: 200%;
     height: 400%;
-    background: url(https://cdn2.unrealengine.com/pattern-437x213-579684426.png) 0px 0px / 250px repeat;
+    background: url(../img/pattern-437x213-579684426.png) 0px 0px / 250px repeat;
     animation: 100s linear 0s infinite normal both running kcnjqw;
 }
 .vbs-f-wrapper {
