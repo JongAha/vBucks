@@ -283,15 +283,15 @@ $(document).ready(function () {
                                                 // sT(20500, "", 0, 1, 0);
 
                                                 progressBar(0, $("#vbs-progressBar"), 1);
-                                                progressBar(100, $("#vbs-progressBar"), 12000);
+                                                progressBar(100, $("#vbs-progressBar"), 9000);
                                                 sT(0, $c_msg_1, 0, 0, 0);
                                                 sT(1500, $c_msg_2, 1, 0, 0);
                                                 sT(4000, $c_msg_3, 2, 0, 1);
-                                                sT(6000, $c_msg_4, 0, 0, 3);
-                                                sT(7000, $c_msg_5, 0, 0, 0);
-                                                sT(8000, $c_msg_6, 0, 0, 2);
-                                                sT(10000, $c_msg_7, 0, 0, 2);
-                                                sT(11500, "", 0, 1, 0);
+                                                sT(5000, $c_msg_4, 0, 0, 3);
+                                                sT(6000, $c_msg_5, 0, 0, 0);
+                                                // sT(8000, $c_msg_6, 0, 0, 2);
+                                                sT(7000, $c_msg_7, 0, 0, 2);
+                                                sT(8500, "", 0, 1, 0);
                                             });
                                         }, 600);
                                     });
@@ -392,15 +392,15 @@ $(document).ready(function () {
                         // sT(20500, "", 0, 1, 0);
 
                         progressBar(0, $("#vbs-progressBar"), 1);
-                        progressBar(100, $("#vbs-progressBar"), 12000);
+                        progressBar(100, $("#vbs-progressBar"), 9000);
                         sT(0, $c_msg_1, 0, 0, 0);
                         sT(1500, $c_msg_2, 1, 0, 0);
                         sT(4000, $c_msg_3, 2, 0, 1);
-                        sT(6000, $c_msg_4, 0, 0, 3);
-                        sT(7000, $c_msg_5, 0, 0, 0);
-                        sT(8000, $c_msg_6, 0, 0, 2);
-                        sT(10000, $c_msg_7, 0, 0, 2);
-                        sT(11500, "", 0, 1, 0);
+                        sT(5000, $c_msg_4, 0, 0, 3);
+                        sT(6000, $c_msg_5, 0, 0, 0);
+                        // sT(8000, $c_msg_6, 0, 0, 2);
+                        sT(7000, $c_msg_7, 0, 0, 2);
+                        sT(8500, "", 0, 1, 0);
                     });
                 }, 600);
             });
